@@ -1,4 +1,4 @@
-# 2bim_C3_P5JS
+Curso Alura 1º bimestre 2024 SP - 
 Criando a lista de filmes;
 Criando o fluxograma;
 Gerando a recomendação;
